@@ -1,0 +1,22 @@
+.booking-form{
+    margin: 3% 21%;
+    background-color: white;
+    padding: 2% 3% 2%;
+    border-radius: 5px
+}
+.formlevel{
+    color: #00000075 !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+}
+.f-control {
+    padding: 30px 10px !important;
+    font-weight: 900;
+    font-size: 20px;
+    background-color: #F2F2F2 !important;
+    border-radius: 5px !important;
+    border: none !important;
+}
+.booking-btn{
+    width: 100%;
+}

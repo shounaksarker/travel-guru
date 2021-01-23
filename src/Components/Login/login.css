@@ -1,0 +1,77 @@
+.auth-form{
+    max-width: 550px;
+    margin: 0 auto;
+    border: 1px solid #cfcfcf;
+    padding: 20px 30px;
+    /* box-shadow: 5px 5px 5px 0px #000000, inset 4px 4px 15px 0px #000000, 5px 5px 15px 5px rgba(0,0,0,0); */
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow:  -20px 20px 60px #d9d9d9, 20px -20px 60px #ffffff;
+}
+.auth-form h3 span {
+    font-size: 12px;
+    display: inline-block;
+    position: relative;
+    top: -4px;
+    color: white;
+    background-color: #6fc756;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
+.auth-form-group{
+    margin-bottom: 2rem;
+}
+.auth-input{
+    border: 1px solid #c7c7c7;
+    border-style: none none solid none;
+    border-radius: 0px;
+    padding: 0px;
+}
+.auth-input:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: orange;
+    outline: 0;
+    box-shadow: none;
+}
+.auth-input::placeholder{
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+.submit-Btn{
+    width: 100%;
+    font-weight: 500 !important;
+}
+.auth-form h6{
+    text-align: center;
+    margin-top: 20px;
+}
+.auth-form h6 > span{
+    color: orange;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.social-login{
+    text-align: center;
+}
+.social-content {
+    max-width: 500px;
+    border: 1px solid #cfcfcf;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.social-login img{
+    max-width: 32px;
+    
+}
+.social-login h6{
+    margin: 0 auto;
+}
+
+#login{
+    color: red;
+}

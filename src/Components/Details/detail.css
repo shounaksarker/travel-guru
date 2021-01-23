@@ -1,0 +1,13 @@
+.containerr{
+    /* background-color:rgba(116, 117, 116, 0.747); */
+    max-width: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 100px;
+}
+.card{
+    border: none !important;
+}
+.spotName{
+    font-size: 28px ;
+}

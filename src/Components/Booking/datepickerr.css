@@ -1,0 +1,19 @@
+.date-div{
+    display:flex !important;
+}
+.react-datepicker__input-container input{
+    border: none !important;
+    background-color: #F2F2F2 !important;
+    padding: 15px 0px 15px 15px !important;
+    border-radius: 5px !important;
+    font-size: 20px;
+    font-weight: bold;
+    max-width: 194px;
+}
+.to{
+    margin: 0px 20px;
+    color: #8a8a8a;
+    font-size: 17px;
+    text-align: center;
+    padding: 7px 2px;
+}

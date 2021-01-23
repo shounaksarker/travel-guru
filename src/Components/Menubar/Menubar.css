@@ -1,0 +1,45 @@
+.cont{
+    max-width: 1500px !important;
+}
+.logo{
+    max-width: 150px;
+    filter: brightness(10);
+}
+.searchbar{
+    position: relative;
+    left: 7%; 
+    background-color: transparent;
+}
+.searchbox{
+    background: transparent !important;
+    color: orange !important;
+    min-width: 300px;
+    font-size: 20px !important;
+    opacity: 0.8 !important;
+}
+
+::placeholder{
+    opacity: 0.7 !important;
+}
+.menu{
+    margin: 0 auto;
+    margin-right: 40px;
+}
+.menu a{
+    font-size: 23px !important;
+    padding: .5rem 1rem;
+    padding-right: 30px !important;
+    transition: all 0.3s ease-in-out !important;
+}
+.nav-link:hover {
+    text-decoration: underline orange !important;
+}
+.nav-bar{
+    background: transparent;
+    margin-bottom: 80px;
+}
+.menu a:last-child{
+    background-color: #F9A51A;
+    padding-left: 25px !important;
+    border-radius: 7px;
+}

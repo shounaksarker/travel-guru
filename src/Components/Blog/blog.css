@@ -1,0 +1,22 @@
+.blog{
+    padding: 0.5rem 1rem;
+    margin-bottom: 20px;
+}
+.blog:last-child{margin-bottom: 0px}
+.blog h3{
+    text-align: center;
+    padding: 10px 15px;
+    background-color: white;
+    box-shadow: inset 15px -10px 20px 8px #e8e8e8;
+}
+.blog-row{
+    margin: 30px -15px;
+}
+.blog-row img{
+    width: 100%;
+    max-height: 270px;
+}
+.para-span{
+    font-weight: bold;
+    text-decoration: underline;
+}
