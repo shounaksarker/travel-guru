@@ -12,7 +12,7 @@ It's a dynamic travel web-app made for Booking place and hotel room. There are 3
 * Then he will redirect to hotel/room page of which place he selected.
 
 
-#### Technology and Dependency:
+### Technology and Dependency:
 * React JS
 * Firebase auth
 * Bootstrap
